@@ -14,5 +14,5 @@ This repository contains an outline of the learning progress and results obtaine
     - [machine learning and deep learning fundamentals](http://deeplizard.com/learn/video/v5cngxo4mIg)
   * become familiar with terminology of the digital pathology pipeline 
     (read research papers on state of the art practices in histopathological analysis)
-  * get data from the PAIP challenge
+  * get data for the PAIP challenge
     
