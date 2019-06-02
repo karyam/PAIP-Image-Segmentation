@@ -6,10 +6,10 @@ This repository contains an outline of the learning progress and results obtaine
 1. perform well on the [PAIP2019](https://paip2019.grand-challenge.org/Dataset/) challenge
 2. additinally, (if time and data available) extend results from previous disertation paper on analysis of nuclear images from soft tissue sarcoma
 
-### Building blocks
-    1. Become familiar with the research workflow - read research papers, histopathology pipeline, machine learning techniques and plactices
-    2. Programming - become familiar with PyTorch, TensorFlow (maybe Keras)
-    3. Deep learning/Machine learning algorithms - ! CNNs architectures
+#### Building blocks
+   1. Become familiar with the research workflow - read research papers, histopathology pipeline, machine learning techniques and plactices
+   2. Programming - become familiar with PyTorch, TensorFlow (maybe Keras)
+   3. Deep learning/Machine learning algorithms - ! CNNs architectures
 
 ### Outline
 * week1: 
