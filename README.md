@@ -32,6 +32,12 @@ This repository contains an outline of the learning progress and results obtaine
   * start looking on PAIP data, preprocess
   * implement commonly used pipeline
   * research more for novel techniques too apply
+* week4
+  * obtain results above 70% on each task from the PAIP challenge 
+* week5
+* week6
+* week7
+* week8
   
   
 
