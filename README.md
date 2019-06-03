@@ -28,6 +28,7 @@ This repository contains an outline of the learning progress and results obtaine
   * work through all the notebooks from deeplearning.ai
   * get familiar with data processing techniques
   * read more papers on HE analysis
+  * work on assignments from CS231n, [nice solutions](https://github.com/srinadhu/CS231n)
 * week3:
   * start looking on PAIP data, preprocess
   * implement commonly used pipeline
@@ -38,6 +39,7 @@ This repository contains an outline of the learning progress and results obtaine
 * week6
 * week7
 * week8
+  * obtain results above 98%
   
   
 
