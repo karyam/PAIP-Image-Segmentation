@@ -29,6 +29,7 @@ This repository contains an outline of the learning progress and results obtaine
   * get familiar with data processing techniques
   * read more papers on HE analysis
   * work on assignments from CS231n, [nice solutions](https://github.com/srinadhu/CS231n)
+  * [training DNNs advice](http://karpathy.github.io/2019/04/25/recipe/)
 * week3:
   * start looking on PAIP data, preprocess
   * implement commonly used pipeline
