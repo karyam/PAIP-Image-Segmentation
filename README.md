@@ -35,6 +35,8 @@ This repository contains an outline of the learning progress and results obtaine
 * week3:
   * start looking on PAIP data, preprocessing techniques
   * reproduce results from various research papers
+  * research for state-of-the art algorithms
+  ![](https://github.com/karyam/research_internship_outline_and_results/blob/master/pic.png)
   
 * week4
   * implement commonly used pipeline
@@ -42,8 +44,9 @@ This repository contains an outline of the learning progress and results obtaine
 * week5
 * week6
 * week7
-* week8
   * obtain results above 98%
+* week8
+  * work on final report
   
   
 
