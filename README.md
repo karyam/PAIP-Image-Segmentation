@@ -30,12 +30,14 @@ This repository contains an outline of the learning progress and results obtaine
   * read more papers on HE analysis
   * work on assignments from CS231n, [nice solutions](https://github.com/srinadhu/CS231n)
   * [training DNNs advice](http://karpathy.github.io/2019/04/25/recipe/)
+  * CNNs in Pytorch for CIFAR10
 * week3:
-  * start looking on PAIP data, preprocess
-  * implement commonly used pipeline
-  * research more for novel techniques to apply
+  * start looking on PAIP data, preprocessing techniques
+  * reproduce results from various research papers
+  
 * week4
-  * obtain results above 70% on each task from the PAIP challenge 
+  * implement commonly used pipeline
+  * obtain some results for the PAIP data
 * week5
 * week6
 * week7
