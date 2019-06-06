@@ -31,6 +31,7 @@ This repository contains an outline of the learning progress and results obtaine
   * work on assignments from CS231n, [nice solutions](https://github.com/srinadhu/CS231n)
   * [training DNNs advice](http://karpathy.github.io/2019/04/25/recipe/)
   * CNNs in Pytorch for CIFAR10
+  * re-work through [best PyTorch tutorial](https://github.com/rasbt/deeplearning-models/blob/master/README.md)
 * week3:
   * start looking on PAIP data, preprocessing techniques
   * reproduce results from various research papers
