@@ -37,11 +37,14 @@ This repository contains an outline of the learning progress and results obtaine
   * reproduce results from various research papers
   * research for state-of-the art algorithms
   ![](https://github.com/karyam/research_internship_outline_and_results/blob/master/pic.png)
-  * implement common [Image Segmentation models in medical imaging]
+  * environment set-up
+  * enstablish preliminary workflow
+  * data sanity checks
+  * annotation visualization
+  * image segmentation: identify ROI
   
 * week4
-  * implement commonly used pipeline
-  * obtain some results for the PAIP data
+  * image segmentation
 * week5
 * week6
 * week7
