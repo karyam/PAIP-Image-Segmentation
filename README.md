@@ -35,17 +35,19 @@ This repository contains an outline of the learning progress and results obtaine
 * week3:
   * start looking on PAIP data, preprocessing techniques
   * reproduce results from various research papers
-  * research for state-of-the art algorithms
   ![](https://github.com/karyam/research_internship_outline_and_results/blob/master/pic.png)
   * environment set-up
   * enstablish preliminary workflow
   * data sanity checks
   * annotation visualization
   * image segmentation: identify ROI
-  
+  * utils scripts  
 * week4
-  * image segmentation
+  * finish image segmentation
+  * build the training dataset: start tilling and data augmentation
+  * think about what CNN architectures to use and set up hyperparameters (U-net, Inception-V3 etc.); transfer learning
 * week5
+  * start first trail of training 
 * week6
 * week7
   * obtain results above 98%
