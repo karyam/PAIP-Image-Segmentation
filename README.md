@@ -3,6 +3,14 @@
 
 This repository contains an outline of the learning progress and results obtained during my first internship (UCL Bioinformatics research group).
 
+### Contents
+1. Motivation
+2. Introduction. Medical Image Segmentation
+3. Results
+4. Learning. Bottlenecks
+5. Future work
+6. Internship experience. Advice
+
 
 #### Goals 
 1. perform well on the [PAIP2019](https://paip2019.grand-challenge.org/Dataset/) challenge
