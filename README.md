@@ -1,4 +1,6 @@
-# 🎥research_internship_outline_and_results
+# 🎥 Academic Research Internship - UCL
+
+
 This repository contains an outline of the learning progress and results obtained during my first internship (UCL Bioinformatics research group).
 
 
